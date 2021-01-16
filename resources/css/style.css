@@ -10,10 +10,7 @@ body {
   color: white;
 }
 
-h1 {
-  color: white;
-}
-a {
-  color: aquamarine;
+.link--cta {
   font-size: 16px;
+  color: aquamarine;
 }
