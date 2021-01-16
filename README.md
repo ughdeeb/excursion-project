@@ -19,7 +19,7 @@ The web page was built from provided design mockups.
 ## Technologies
 
 Technologies used in the creation of this project:
-
-- Javascript ES6
+- HTML
+- CSS
 - CLI
 - Git and Github (with VS Code)
